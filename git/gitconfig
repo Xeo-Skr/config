@@ -1,0 +1,7 @@
+[user]
+  name = XeoSkr
+  email = skypt444@gmail.com
+[push]
+  default = simple
+[core]
+  editor = nvim
